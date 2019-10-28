@@ -1,0 +1,11 @@
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.AssemblyInfo.cs
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\bin\Debug\netcoreapp2.2\D20_Inteiros.deps.json
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\bin\Debug\netcoreapp2.2\D20_Inteiros.runtimeconfig.json
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\bin\Debug\netcoreapp2.2\D20_Inteiros.runtimeconfig.dev.json
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\bin\Debug\netcoreapp2.2\D20_Inteiros.dll
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\bin\Debug\netcoreapp2.2\D20_Inteiros.pdb
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.dll
+C:\Users\44592799836\Desktop\Continuação\D20_inteiros\obj\Debug\netcoreapp2.2\D20_Inteiros.pdb

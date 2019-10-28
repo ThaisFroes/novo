@@ -1,0 +1,4 @@
+C:\Users\44592799836\Desktop\Continuação\d23_mm\obj\Debug\netcoreapp2.2\D23_Mm.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\Continuação\d23_mm\obj\Debug\netcoreapp2.2\D23_Mm.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d23_mm\obj\Debug\netcoreapp2.2\D23_Mm.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d23_mm\obj\Debug\netcoreapp2.2\D23_Mm.AssemblyInfo.cs
