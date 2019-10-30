@@ -1,0 +1,4 @@
+C:\Users\44592799836\Desktop\Continuação\d28_agenda\obj\Debug\netcoreapp2.2\D28_Agenda.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\Continuação\d28_agenda\obj\Debug\netcoreapp2.2\D28_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d28_agenda\obj\Debug\netcoreapp2.2\D28_Agenda.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d28_agenda\obj\Debug\netcoreapp2.2\D28_Agenda.AssemblyInfo.cs

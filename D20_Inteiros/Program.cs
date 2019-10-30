@@ -11,7 +11,7 @@ namespace D20_Inteiros
             int impares = 0;
 
             for(int cont =0; cont <= 9; cont++){
-                System.Console.WriteLine("Digite um número: ");
+                System.Console.WriteLine("Digite 10 números da sua preferência: ");
                 vetor[cont] = int.Parse(Console.ReadLine());
             }
             

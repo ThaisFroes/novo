@@ -1,0 +1,11 @@
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\bin\Debug\netcoreapp2.2\D8_Triangulo.deps.json
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\bin\Debug\netcoreapp2.2\D8_Triangulo.runtimeconfig.json
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\bin\Debug\netcoreapp2.2\D8_Triangulo.runtimeconfig.dev.json
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\bin\Debug\netcoreapp2.2\D8_Triangulo.dll
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\bin\Debug\netcoreapp2.2\D8_Triangulo.pdb
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.AssemblyInfo.cs
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.dll
+C:\Users\44592799836\Desktop\Continuação\d8_triangulo\obj\Debug\netcoreapp2.2\D8_Triangulo.pdb

@@ -1,0 +1,11 @@
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.csprojAssemblyReference.cache
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.csproj.CoreCompileInputs.cache
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.AssemblyInfoInputs.cache
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.AssemblyInfo.cs
+C:\Users\44592799836\Desktop\Continuação\D19_n\bin\Debug\netcoreapp2.2\D19_N.deps.json
+C:\Users\44592799836\Desktop\Continuação\D19_n\bin\Debug\netcoreapp2.2\D19_N.runtimeconfig.json
+C:\Users\44592799836\Desktop\Continuação\D19_n\bin\Debug\netcoreapp2.2\D19_N.runtimeconfig.dev.json
+C:\Users\44592799836\Desktop\Continuação\D19_n\bin\Debug\netcoreapp2.2\D19_N.dll
+C:\Users\44592799836\Desktop\Continuação\D19_n\bin\Debug\netcoreapp2.2\D19_N.pdb
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.dll
+C:\Users\44592799836\Desktop\Continuação\D19_n\obj\Debug\netcoreapp2.2\D19_N.pdb

@@ -8,22 +8,24 @@ namespace D23_Mm
         static void Main(string[] args)
         {
             int[] vetor = new int[10];
-            int i, maior, menor, num; 
-            
-            for(i=1; i<=10;i++){
-                System.Console.WriteLine("Digite o número: " +i);
-                num = int.Parse(Console.ReadLine());
-            
-                if(i==1){
-                    maior=num;
-                    menor=num;
-                }else{
-                    if(num<menor){
-                        menor=num;
-                    }
+            int maior = 0;
+            int menor = 0;
+
+            for(int cont =0; cont <10; cont++){
+                System.Console.WriteLine("Digite 10 números da sua preferência: ");
+                if ((cont % 2) !=0)
+                {
+                    cont = vetor [maior];
+                    vetor[maior] = vetor [maior -1];
+                    
                 }
             }
-            System.Console.WriteLine("O menor número é " +menor+" e o maior número é " +maior);
+
+            foreach(int num in vetor)
+            {
+                if(num)
+            }
+            System.Console.WriteLine($"O menor número é "{menor}" e o maior número é " {maior}.);
             
         }
     }
